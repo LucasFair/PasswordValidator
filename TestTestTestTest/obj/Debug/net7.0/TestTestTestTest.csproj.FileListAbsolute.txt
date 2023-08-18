@@ -1,0 +1,14 @@
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\bin\Debug\net7.0\TestTestTestTest.exe
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\bin\Debug\net7.0\TestTestTestTest.deps.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\bin\Debug\net7.0\TestTestTestTest.runtimeconfig.json
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\bin\Debug\net7.0\TestTestTestTest.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\bin\Debug\net7.0\TestTestTestTest.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.AssemblyInfoInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.AssemblyInfo.cs
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.csproj.CoreCompileInputs.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\refint\TestTestTestTest.dll
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.pdb
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\TestTestTestTest.genruntimeconfig.cache
+C:\Users\Fair\Documents\Hovedforløb\H1\C#\TestTestTestTest\obj\Debug\net7.0\ref\TestTestTestTest.dll
